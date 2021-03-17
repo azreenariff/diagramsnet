@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-17T00:54:34.257Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="oGSLVYP09Xz14OQAioRa" version="14.4.8" type="github">
+<mxfile modified="2021-03-17T00:59:21.054Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="HZDmbD8wVZj8jzJH6Twq" version="14.4.8" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -77,6 +77,27 @@
               <mxPoint x="322" y="560" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PAHJKajbLYbNzaCbg5Fu-19" value="Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="696.35" y="246" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PAHJKajbLYbNzaCbg5Fu-20" value="CISCO-ROUTER-01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="450" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PAHJKajbLYbNzaCbg5Fu-21" value="CISCO-SWITCH-01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="367" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PAHJKajbLYbNzaCbg5Fu-22" value="CISCO-SWITCH-02" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PAHJKajbLYbNzaCbg5Fu-23" value="CENTOS-HOST-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="740" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PAHJKajbLYbNzaCbg5Fu-24" value="CENTOS-HOST-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="740" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PAHJKajbLYbNzaCbg5Fu-25" value="HOST-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="961.3" y="740" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
